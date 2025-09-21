@@ -6,7 +6,7 @@ You will mainly study:
 * translating practical questions into Python programs
 * writing clean Python code
 * testing and debugging your Python programs
-## Module Description
+
 
 ## Learning Aims and Outcomes
 This module is designed to give mature students an introduction to programming in a way that gives them the basic concepts and skills to develop further. It is not simply a programming module, although it does have a lot of programming content. It is designed to enable students to cope with the programming content of the further modules on the programme, not to design and build substantial programmes of their own. It therefore contains material alongside an accelerated version of the standard programming account that contains a concentrated induction to professional programming practice, both the toolchain and the approach to program structure, documentation and testing.
